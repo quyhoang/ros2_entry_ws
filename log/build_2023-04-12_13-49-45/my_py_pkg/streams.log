@@ -1,0 +1,21 @@
+[1.003s] Invoking command in '/home/hoang/ros2_ws/build/my_py_pkg': PYTHONPATH=/home/hoang/ros2_ws/build/my_py_pkg/prefix_override:/home/hoang/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/hoang/ros2_ws/build/my_py_pkg/build --no-deps install_data
+[1.495s] running develop
+[1.764s] running egg_info
+[1.765s] writing my_py_pkg.egg-info/PKG-INFO
+[1.766s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[1.768s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[1.769s] writing requirements to my_py_pkg.egg-info/requires.txt
+[1.770s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[1.774s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[1.776s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[1.779s] running build_ext
+[1.780s] Creating /home/hoang/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
+[1.782s] Installing numberCounter script to /home/hoang/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.783s] Installing numberPublisher script to /home/hoang/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.784s] Installing py_node script to /home/hoang/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.785s] Installing robot_news_station script to /home/hoang/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.786s] Installing smartphone script to /home/hoang/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.786s] 
+[1.786s] Installed /home/hoang/ros2_ws/build/my_py_pkg
+[1.786s] running install_data
+[1.827s] Invoked command in '/home/hoang/ros2_ws/build/my_py_pkg' returned '0': PYTHONPATH=/home/hoang/ros2_ws/build/my_py_pkg/prefix_override:/home/hoang/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/hoang/ros2_ws/build/my_py_pkg/build --no-deps install_data
